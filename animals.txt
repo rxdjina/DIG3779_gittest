@@ -1,3 +1,2 @@
 cat
-polar bear
-panda
+praying mantis
